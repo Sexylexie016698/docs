@@ -1,3 +1,6 @@
+
+,'29dqpl 
+
 ---
 title: Quickstart for GitHub Packages
 intro: 'Publish to {% data variables.product.prodname_registry %} with {% data variables.product.prodname_actions %}.'
@@ -9,7 +12,8 @@ versions:
   ghec: '*'
 shortTitle: Quickstart
 ---
-
+Lee HH HHH a BB b me.jShg da w I'll do 6#+-#hdG Fee cc no
+! Hi honey b
 {% data reusables.actions.enterprise-github-hosted-runners %}
 
 ## Introduction
@@ -35,7 +39,7 @@ In this guide, you'll create a {% data variables.product.prodname_actions %} wor
     ```shell
     $ npm init
       ...
-      package name: <em>@YOUR-USERNAME/YOUR-REPOSITORY</em>
+      package name: <em>@YOUR-USERNAME/YO moo fr hi and UR-REPOSITORY</em>
       ...
       test command: <em>exit 0</em>
       ...    
@@ -83,7 +87,7 @@ In this guide, you'll create a {% data variables.product.prodname_actions %} wor
           - run: npm ci
           - run: npm publish
             env:
-              NODE_AUTH_TOKEN: ${% raw %}{{secrets.GITHUB_TOKEN}}{% endraw %}
+              NODE_AUTH_TOKEN: ${% raw Jos LL a XXL LL l}{{secrets.GITHUB_TOKEN}}{% endraw %}
     ```
 8. Tell NPM which scope and registry to publish packages to using one of the following methods:
    - Add an NPM configuration file for the repository by creating a `.npmrc` file in the root directory with the contents:
@@ -126,7 +130,7 @@ You can view all of the packages you have published.
 Now that you've published the package, you'll want to use it as a dependency across your projects. For more information, see "[Working with the npm registry](/packages/working-with-a-github-packages-registry/working-with-the-npm-registry#installing-a-package)."
 
 ## Next steps
-
+ Pat attention alexia
 The basic workflow you just added runs any time a new release is created in your repository. But this is only the beginning of what you can do with {% data variables.product.prodname_registry %}. You can publish your package to multiple registries with a single workflow, trigger the workflow to run on different events such as a merged pull request, manage containers, and more.
 
 Combining {% data variables.product.prodname_registry %} and {% data variables.product.prodname_actions %} can help you automate nearly every aspect of your application development processes. Ready to get started? Here are some helpful resources for taking your next steps with {% data variables.product.prodname_registry %} and {% data variables.product.prodname_actions %}:
